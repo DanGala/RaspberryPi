@@ -1,0 +1,4 @@
+export ARCH=arm
+export CROSS_COMPILE=arm-linux-gnueabihf-
+export PATH=$PATH:/opt/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin
+export KERNEL_SRC=/home/alumno/git/linux-rpi
